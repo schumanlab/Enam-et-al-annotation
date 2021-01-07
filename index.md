@@ -9,15 +9,15 @@ Mean squared displacement (MSD) was calculated for cytosolic GFP as in Enam et a
 
 
 ### references
-<p style="text-align: justify">
+<p>
 Enam et al., 2020. Puromycin reactivity does not accurately localize translation at the subcellular level. <i>eLife</i>
 <a href="https://elifesciences.org/articles/60303">doi.org/10.7554/eLife.60303</a>
 </p>
-<p style="text-align: justify">
+<p>
 Ge et al., 2016. Puromycin analogs capable of multiplexed imaging and profiling of protein synthesis and dynamics in live cells and neurons. <i>Angewandte Chemie</i>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201511030">doi.org/10.1002/anie.201511030</a>
 </p>
-<p style="text-align: justify">
+<p>
 Reshetniak et al., 2020. A comparative analysis of the mobility of 45 proteins in the synaptic bouton. <i>The EMBO Journal</i>
 <a href="https://www.embopress.org/doi/full/10.15252/embj.2020104596">doi.org/10.15252/embj.2020104596</a>
 </p>
