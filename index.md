@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Figure to accompany the annotation of Enam et al., eLIFE, 2020 from the Schuman Lab
+Using Green Fluorescent Protein (GFP) as a model for endogenous protein diffusion is not the most appropriate. In non-native cells, the diffusion of GFP is dominated by molecular crowding of its environment, as it likely does not have any endogenous interaction partners (e.g. aequorin). For example, the GFP diffusion values cited by Enam et al., (dark green line in attached Figure) derived from studies in CHO cells, are much faster than GFP diffusion values obtained in neuronal compartments like axons (light green line in Figure) (Reshetniak et al., 2020). In fact, and even better, there are direct data available on the diffusion of puromycylated peptides in a neuron-derived cell line (Ge et al., 2016) (purple line in Figure).  The diffusion of puromycylated peptides measured directly in Ge et al., is ~ 10-fold slower than the diffusion of cytosolic GFP shown in Figure 5 of Enam et al. In addition, many groups have directly studied the diffusion of neuronal proteins in mature neurons- and again found diffusion values that are much slower than cytosolic GFP in the same subcellular compartment (grey line in Figure). As such, we believe that puromycin, when used appropriately, can be used in neurons to ascertain or validate the location of nascent proteins in or near the compartment (axonal or dendritic) in which they were synthesized. Practically speaking, measurements should be made in distal processes (e.g. > 50 microns from the cell body) following short-labelling times (~ 5 min) using a low (~2 – 5 uM) puromycin concentration– these are the typical parameters used by most experimenters, including our group.
 
-You can use the [editor on GitHub](https://github.com/schumanlab/rebuttal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### referennces
+Enam et al., 2020.  Puromycin reactivity does not accurately localize translation at the subcellular level eLife. DOI: 10.7554/eLife.60303
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ge et al., 2016. Puromycin analogs capable of multiplexed imaging and profiling of protein synthesis and dynamics in live cells and neurons. Angewandte Chemie. doi.org/10.1002/anie.201511030
 
-### Markdown
+Reshetniak et al., 2020. A comparative analysis of the mobility of 45 proteins in the synaptic bouton. The EMBO Journal. doi.org/10.15252/embj.2020104596
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/schumanlab/rebuttal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
