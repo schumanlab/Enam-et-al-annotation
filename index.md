@@ -3,7 +3,7 @@
 ![img](figure01.png)
 
 ### comparing the mean-squared displacement of GFP, neuronal proteins and puromycylated peptides
-<p style="text-align: justify">
+<p>
 Mean squared displacement (MSD) was calculated for cytosolic GFP as in Enam et al. (dark green, 126.0 &mu;m<sup>2</sup>/s), cytosolic GFP in axons (light green, 19.2 &mu;m<sup>2</sup>/s), 45 axonal proteins  (grey line, 1.95 &mu;m<sup>2</sup>/s) or puromycylated peptides (Ge et al., 2016) (magenta, 0.9 &mu;m<sup>2</sup>/s) for 3D diffusion using the equation: x<sup>2</sup> = 2nDt, (where n = number of dimensions, D = diffusion coefficient and t = time). Note that the MSD for cytosolic GFP in axons (Reshetniak et al., 2020) is much lower than the CHO cell-derived value used by Enam et al - but still several-fold higher than the MSD reported for puromycylated peptides measured in a neuronal-origin cell line (Ge, et al 2016).  The difference in GFP diffusion presumably reflects the molecular crowding differences in the two cellular environments. The lower MSD of puromycylated peptides is likely additionally influenced by protein-protein interaction domains present in nascent peptides. Consistent with this, the average MSD of 45 synaptic proteins in the axon (data taken from Reshetniak et al, 2020; is similar to that of puromycylated peptides. These plots show that puromycylated peptides in neurons diffuse much less than GFP in CHO cells and appear to behave like the “average” protein in an axonal/dendritic compartment- influenced by both the molecular crowding of the environment and protein-protein interactions.
 </p>
 
