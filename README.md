@@ -9,15 +9,12 @@ Mean squared displacement (MSD) was calculated for cytosolic GFP as in Enam et a
 
 
 ### referennces
-<div style="text-align: justify">
-[Enam et al., 2020.](https://elifesciences.org/articles/60303) Puromycin reactivity does not accurately localize translation at the subcellular level eLife. doi.org/10.7554/eLife.60303
-<br>
-<br>
-[Ge et al., 2016.](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201511030) Puromycin analogs capable of multiplexed imaging and profiling of protein synthesis and dynamics in live cells and neurons. Angewandte Chemie. doi.org/10.1002/anie.201511030
-<br>
-<br>
-[Reshetniak et al., 2020.](https://www.embopress.org/doi/full/10.15252/embj.2020104596) A comparative analysis of the mobility of 45 proteins in the synaptic bouton. The EMBO Journal. doi.org/10.15252/embj.2020104596
-</div>
+Enam et al., 2020. Puromycin reactivity does not accurately localize translation at the subcellular level eLife. [doi.org/10.7554/eLife.60303](https://elifesciences.org/articles/60303)
+
+Ge et al., 2016. Puromycin analogs capable of multiplexed imaging and profiling of protein synthesis and dynamics in live cells and neurons. Angewandte Chemie. [doi.org/10.1002/anie.201511030](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201511030)
+
+Reshetniak et al., 2020. A comparative analysis of the mobility of 45 proteins in the synaptic bouton. The EMBO Journal. [doi.org/10.15252/embj.2020104596](https://www.embopress.org/doi/full/10.15252/embj.2020104596)
+
 
 ### annotation text
 <div style="text-align: justify">
